@@ -1,70 +1,9 @@
-# Hi, I'm Gurwinder Singh 
-!https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-!https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white
-!https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
-!https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white
-!https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white
-!https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white
-!https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white
-!https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-!https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-!https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
-!https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white
-!https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white
-!https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-!https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white
-!https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white
-!https://img.shields.io/badge/-Entity_Framework_Core-512BD4?style=flat-square&logo=.net&logoColor=white
+<h1 align="center">Hi 👋, I'm Gurwinder Singh</h1>
+<h3 align="center">A passionate asp.net/Blazor/Angular/Vue/React/Laravel Developer</h3>
 
-## About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I am an experienced  developer with a diverse skill set spanning multiple programming languages, frameworks, and databases. My expertise allows me to tackle complex projects and deliver robust, scalable solutions for enterprise environments. I have worked with Fourvision EMEA (Netherlands) on enterprise level projects in Angular & asp.net core MVC from Novenber, 2016 to March, 2023.
-
-## Skills
-
-### Backend Development
-- **Node.js & Express.js**: Building scalable and efficient server-side applications
-- **Python & Django**: Developing powerful web applications with a batteries-included framework
-- **.NET & C#**: Creating enterprise-grade applications for Windows and cross-platform environments
-- **ASP.NET Web API**: Designing and implementing RESTful APIs
-
-### Frontend Development
-- **JavaScript & TypeScript**: Writing clean, maintainable, and type-safe code
-- **React**: Building interactive user interfaces with a component-based approach
-- **Angular**: Developing single-page applications with a full-featured framework
-- **Vue.js**: Creating dynamic and responsive web applications
-- **Blazor**: Building interactive web UIs using C# instead of JavaScript
-
-### Database Management
-- **MySQL**: Designing and optimizing relational databases for web applications
-- **PostgreSQL**: Leveraging advanced features for complex data models
-- **Microsoft SQL Server**: Implementing enterprise-level data solutions
-- **Entity Framework Core**: Simplifying data access and management in .NET applications
-
-<!---               
-## Projects
-
-[Here you can list some of your key projects with brief descriptions]
-
-1. Project A: [Brief description]
-2. Project B: [Brief description]
-3. Project C: [Brief description]
-
-## Professional Experience
-
-[List your work experience here]
-
-## Education
-
-[List your educational background here]
-
-## Certifications
-
-[List any relevant certifications you have]
-
-## Contact
-
-- Email: [Your email address]
-- LinkedIn: [Your LinkedIn profile URL]
-- GitHub: [Your GitHub profile URL]
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
